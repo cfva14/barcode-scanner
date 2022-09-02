@@ -25,6 +25,4 @@ If you're looking at how you could use the plugin to do a particular kind of not
 Also try to check the READMEs first in case you have missed something e.g. platform-specific setup.
 
 
-## Contributions
 
-The guidelines around submitting pull requests can be found in  [CONTRIBUTING.md](CONTRIBUTING.md).
